@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>杂食记</title>
+  
+  <subtitle>day by day</subtitle>
+  <link href="https://github.com/wusy568/wusy568.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/wusy568/wusy568.github.io/"/>
+  <updated>2021-09-23T11:54:09.881Z</updated>
+  <id>https://github.com/wusy568/wusy568.github.io/</id>
+  
+  <author>
+    <name>林渊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java包的命名规范</title>
+    <link href="https://github.com/wusy568/wusy568.github.io/2021/08/25/Java%E5%8C%85%E7%9A%84%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83/"/>
+    <id>https://github.com/wusy568/wusy568.github.io/2021/08/25/Java%E5%8C%85%E7%9A%84%E5%91%BD%E5%90%8D%E8%A7%84%E8%8C%83/</id>
+    <published>2021-08-25T12:16:52.000Z</published>
+    <updated>2021-09-23T11:54:09.881Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\wusy568.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    <category term="Java" scheme="https://github.com/wusy568/wusy568.github.io/categories/Java/"/>
+    
+    
+    <category term="-tips" scheme="https://github.com/wusy568/wusy568.github.io/tags/tips/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/wusy568/wusy568.github.io/2021/08/21/hello-world/"/>
+    <id>https://github.com/wusy568/wusy568.github.io/2021/08/21/hello-world/</id>
+    <published>2021-08-21T08:55:15.892Z</published>
+    <updated>2021-08-21T08:55:15.892Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\wusy568.github.io\assets\css\APlayer.min.css&quot;&gt;&lt;script</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
